@@ -1,0 +1,17 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+Node	linked_list.c	/^struct Node{$/;"	s	file:
+Node	linked_list2.c	/^struct Node{$/;"	s	file:
+main	linked_list.c	/^int main(){$/;"	f	typeref:typename:int
+main	linked_list2.c	/^int main(){$/;"	f	typeref:typename:int
+next	linked_list.c	/^  struct Node* next;$/;"	m	struct:Node	typeref:struct:Node *	file:
+next	linked_list2.c	/^  struct Node* next;$/;"	m	struct:Node	typeref:struct:Node *	file:
+run	Makefile	/^run:$/;"	t
+run2	Makefile	/^run2:$/;"	t
+value	linked_list.c	/^  int value;$/;"	m	struct:Node	typeref:typename:int	file:
+value	linked_list2.c	/^  int value;$/;"	m	struct:Node	typeref:typename:int	file:

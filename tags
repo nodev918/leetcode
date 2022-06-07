@@ -1,0 +1,98 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+Append	dataStructure/practice/ll/linkedlist.go	/^func (l *LinkedList) Append(n *Node) {$/;"	f	unknown:ll.LinkedList
+LinkedList	dataStructure/practice/ll/linkedlist.go	/^type LinkedList struct {$/;"	s	package:ll
+LinkedList	dataStructure/practice/private/main.go	/^type LinkedList interface {$/;"	i	package:main
+MAXLENGTH	dataStructure/linked_list/linked_list2.c	/^#define MAXLENGTH /;"	d	file:
+New	dataStructure/practice/ll/linkedlist.go	/^func New() *LinkedList{$/;"	f	package:ll	typeref:typename:*LinkedList
+NewNode	dataStructure/practice/ll/linkedlist.go	/^func NewNode(val interface{}) *Node{$/;"	f	package:ll	typeref:typename:*Node
+Next	dataStructure/practice/ll/linkedlist.go	/^	Next *Node$/;"	m	struct:ll.Node	typeref:typename:*Node
+Next	dataStructure/practice/private/main.go	/^	Next *Node$/;"	m	struct:main.Node	typeref:typename:*Node
+Node	dataStructure/linked_list/linked_list.c	/^struct Node{$/;"	s	file:
+Node	dataStructure/linked_list/linked_list2.c	/^struct Node{$/;"	s	file:
+Node	dataStructure/practice/ll/linkedlist.go	/^type Node struct {$/;"	s	package:ll
+Node	dataStructure/practice/private/main.go	/^type Node struct {$/;"	s	package:main
+Node::next	dataStructure/linked_list/linked_list.c	/^  struct Node* next;$/;"	m	struct:Node	typeref:struct:Node *	file:
+Node::next	dataStructure/linked_list/linked_list2.c	/^  struct Node* next;$/;"	m	struct:Node	typeref:struct:Node *	file:
+Node::value	dataStructure/linked_list/linked_list.c	/^  int value;$/;"	m	struct:Node	typeref:typename:int	file:
+Node::value	dataStructure/linked_list/linked_list2.c	/^  int value;$/;"	m	struct:Node	typeref:typename:int	file:
+Pop	dataStructure/practice/ll/linkedlist.go	/^func (l *LinkedList) Pop() (*Node, error) {$/;"	f	unknown:ll.LinkedList	typeref:typename:(*Node, error)
+PopFirst	dataStructure/practice/ll/linkedlist.go	/^func (l *LinkedList) PopFirst()(*Node, error){$/;"	f	unknown:ll.LinkedList	typeref:typename:(*Node, error)
+Prepend	dataStructure/practice/ll/linkedlist.go	/^func (l *LinkedList) Prepend(n *Node){$/;"	f	unknown:ll.LinkedList
+Val	dataStructure/practice/ll/linkedlist.go	/^	Val interface{}$/;"	m	struct:ll.Node	typeref:typename:interface{}
+Val	dataStructure/practice/private/main.go	/^	Val interface{}$/;"	m	struct:main.Node	typeref:typename:interface{}
+add	dataStructure/linked_list/student.c	/^void add(void) {\/\/新增的涵式$/;"	f	typeref:typename:void
+add	dataStructure/linked_list/student.c	/^void add(void);\/\/新增的涵式$/;"	p	typeref:typename:void	file:
+current	dataStructure/linked_list/student.c	/^struct student  *current, *inser, *previous;$/;"	v	typeref:struct:student *
+delet	dataStructure/linked_list/student.c	/^void delet(){\/\/刪除的涵式$/;"	f	typeref:typename:void
+delet	dataStructure/linked_list/student.c	/^void delet(void);\/\/刪除的涵式$/;"	p	typeref:typename:void	file:
+display	dataStructure/linked_list/student.c	/^void display() {\/\/顯示的涵式$/;"	f	typeref:typename:void
+display	dataStructure/linked_list/student.c	/^void display(void);\/\/顯示的涵式$/;"	p	typeref:typename:void	file:
+files.associations	dataStructure/ll/.vscode/settings.json	/^  "files.associations": {$/;"	o
+get_user_input	dataStructure/linked_list/linked_list2.c	/^int* get_user_input();$/;"	p	typeref:typename:int *	file:
+get_user_input	dataStructure/linked_list/linked_list2.c	/^int* get_user_input(){$/;"	f	typeref:typename:int *
+head	dataStructure/linked_list/student.c	/^struct student *head = (struct student *)malloc(sizeof(struct student));\/\/宣告head$/;"	v	typeref:struct:student *
+head	dataStructure/practice/ll/linkedlist.go	/^	head *Node$/;"	m	struct:ll.LinkedList	typeref:typename:*Node
+header.h	dataStructure/ll/.vscode/settings.json	/^    "header.h": "c"$/;"	s	object:files.associations
+inser	dataStructure/linked_list/student.c	/^struct student  *current, *inser, *previous;$/;"	v	typeref:struct:student **
+insert	dataStructure/linked_list/student.c	/^void insert(void) {\/\/插入的函式$/;"	f	typeref:typename:void
+insert	dataStructure/linked_list/student.c	/^void insert(void);\/\/插入的函式$/;"	p	typeref:typename:void	file:
+introdu	dataStructure/linked_list/student.c	/^void introdu() {\/\/介紹功能$/;"	f	typeref:typename:void
+introdu	dataStructure/linked_list/student.c	/^void introdu(void);\/\/介紹功能$/;"	p	typeref:typename:void	file:
+isEmpty	dataStructure/practice/ll/linkedlist.go	/^func (l *LinkedList) isEmpty() bool {$/;"	f	unknown:ll.LinkedList	typeref:typename:bool
+length_of	dataStructure/linked_list/linked_list2.c	/^int  length_of(int*);$/;"	p	typeref:typename:int	file:
+length_of	dataStructure/linked_list/linked_list2.c	/^int length_of(int* in){$/;"	f	typeref:typename:int
+ll	dataStructure/practice/ll/linkedlist.go	/^package ll$/;"	p
+ll.LinkedList	dataStructure/practice/ll/linkedlist.go	/^type LinkedList struct {$/;"	s	package:ll
+ll.LinkedList.Append	dataStructure/practice/ll/linkedlist.go	/^func (l *LinkedList) Append(n *Node) {$/;"	f	unknown:ll.LinkedList
+ll.LinkedList.Pop	dataStructure/practice/ll/linkedlist.go	/^func (l *LinkedList) Pop() (*Node, error) {$/;"	f	unknown:ll.LinkedList	typeref:typename:(*Node, error)
+ll.LinkedList.PopFirst	dataStructure/practice/ll/linkedlist.go	/^func (l *LinkedList) PopFirst()(*Node, error){$/;"	f	unknown:ll.LinkedList	typeref:typename:(*Node, error)
+ll.LinkedList.Prepend	dataStructure/practice/ll/linkedlist.go	/^func (l *LinkedList) Prepend(n *Node){$/;"	f	unknown:ll.LinkedList
+ll.LinkedList.head	dataStructure/practice/ll/linkedlist.go	/^	head *Node$/;"	m	struct:ll.LinkedList	typeref:typename:*Node
+ll.LinkedList.isEmpty	dataStructure/practice/ll/linkedlist.go	/^func (l *LinkedList) isEmpty() bool {$/;"	f	unknown:ll.LinkedList	typeref:typename:bool
+ll.LinkedList.tail	dataStructure/practice/ll/linkedlist.go	/^	tail *Node$/;"	m	struct:ll.LinkedList	typeref:typename:*Node
+ll.New	dataStructure/practice/ll/linkedlist.go	/^func New() *LinkedList{$/;"	f	package:ll	typeref:typename:*LinkedList
+ll.NewNode	dataStructure/practice/ll/linkedlist.go	/^func NewNode(val interface{}) *Node{$/;"	f	package:ll	typeref:typename:*Node
+ll.Node	dataStructure/practice/ll/linkedlist.go	/^type Node struct {$/;"	s	package:ll
+ll.Node.Next	dataStructure/practice/ll/linkedlist.go	/^	Next *Node$/;"	m	struct:ll.Node	typeref:typename:*Node
+ll.Node.Val	dataStructure/practice/ll/linkedlist.go	/^	Val interface{}$/;"	m	struct:ll.Node	typeref:typename:interface{}
+main	dataStructure/linked_list/linked_list.c	/^int main(){$/;"	f	typeref:typename:int
+main	dataStructure/linked_list/linked_list2.c	/^int main(){$/;"	f	typeref:typename:int
+main	dataStructure/linked_list/student.c	/^int main() $/;"	f	typeref:typename:int
+main	dataStructure/ll/linked_list.c	/^int main(){$/;"	f	typeref:typename:int
+main	dataStructure/practice/private/main.go	/^package main$/;"	p
+main.LinkedList	dataStructure/practice/private/main.go	/^type LinkedList interface {$/;"	i	package:main
+main.Node	dataStructure/practice/private/main.go	/^type Node struct {$/;"	s	package:main
+main.Node.Next	dataStructure/practice/private/main.go	/^	Next *Node$/;"	m	struct:main.Node	typeref:typename:*Node
+main.Node.Val	dataStructure/practice/private/main.go	/^	Val interface{}$/;"	m	struct:main.Node	typeref:typename:interface{}
+make_node	dataStructure/linked_list/linked_list2.c	/^struct Node* make_node(int* target, int target_length);$/;"	p	typeref:struct:Node *	file:
+make_node	dataStructure/linked_list/linked_list2.c	/^struct Node* make_node(int* target, int target_length){$/;"	f	typeref:struct:Node *
+modify	dataStructure/linked_list/student.c	/^void modify(){\/\/修正成績的涵式$/;"	f	typeref:typename:void
+modify	dataStructure/linked_list/student.c	/^void modify(void);\/\/修正成績的涵式$/;"	p	typeref:typename:void	file:
+name	dataStructure/linked_list/student.c	/^	char name[20];$/;"	m	struct:student	typeref:typename:char[20]	file:
+next	dataStructure/linked_list/linked_list.c	/^  struct Node* next;$/;"	m	struct:Node	typeref:struct:Node *	file:
+next	dataStructure/linked_list/linked_list2.c	/^  struct Node* next;$/;"	m	struct:Node	typeref:struct:Node *	file:
+next	dataStructure/linked_list/student.c	/^	struct student *next;$/;"	m	struct:student	typeref:struct:student *	file:
+previous	dataStructure/linked_list/student.c	/^struct student  *current, *inser, *previous;$/;"	v	typeref:struct:student ***
+print_list	dataStructure/linked_list/linked_list2.c	/^void print_list(struct Node* node);$/;"	p	typeref:typename:void	file:
+print_list	dataStructure/linked_list/linked_list2.c	/^void print_list(struct Node* node){$/;"	f	typeref:typename:void
+read	dataStructure/linked_list/student.c	/^void read(){\/\/讀檔的涵式$/;"	f	typeref:typename:void
+read	dataStructure/linked_list/student.c	/^void read(void);\/\/讀檔的涵式$/;"	p	typeref:typename:void	file:
+run	dataStructure/linked_list/Makefile	/^run:$/;"	t
+run2	dataStructure/linked_list/Makefile	/^run2:$/;"	t
+score	dataStructure/linked_list/student.c	/^	int score;$/;"	m	struct:student	typeref:typename:int	file:
+set	dataStructure/linked_list/student.c	/^int set = 0;\/\/鏈結串列總數$/;"	v	typeref:typename:int
+student	dataStructure/linked_list/student.c	/^struct student{$/;"	s	file:
+student::name	dataStructure/linked_list/student.c	/^	char name[20];$/;"	m	struct:student	typeref:typename:char[20]	file:
+student::next	dataStructure/linked_list/student.c	/^	struct student *next;$/;"	m	struct:student	typeref:struct:student *	file:
+student::score	dataStructure/linked_list/student.c	/^	int score;$/;"	m	struct:student	typeref:typename:int	file:
+tail	dataStructure/practice/ll/linkedlist.go	/^	tail *Node$/;"	m	struct:ll.LinkedList	typeref:typename:*Node
+value	dataStructure/linked_list/linked_list.c	/^  int value;$/;"	m	struct:Node	typeref:typename:int	file:
+value	dataStructure/linked_list/linked_list2.c	/^  int value;$/;"	m	struct:Node	typeref:typename:int	file:
+write	dataStructure/linked_list/student.c	/^void write() {\/\/存檔的涵式$/;"	f	typeref:typename:void
+write	dataStructure/linked_list/student.c	/^void write(void);\/\/存檔的涵式$/;"	p	typeref:typename:void	file:

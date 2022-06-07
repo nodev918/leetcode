@@ -17,8 +17,8 @@ int main(){
   struct Node* point;
   point = head;
   while(point != NULL){
-    printf("%d\n",point.value);
-    point = point.next;
+    printf("%d\n",point->value);
+    point = point->next;
   }
   
 
